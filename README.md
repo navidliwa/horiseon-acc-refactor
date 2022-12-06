@@ -8,6 +8,12 @@ Horiseon is concerned with their site being accessible to the seeing-impaired an
 
 This site can be viewed for information regarding Horiseon's services and benefits. The navigation bar at the top can be used to move to different parts of the page.
 
+## Horison Homepage
+
+[Click here to visit their site](https://navidliwa.github.io/horiseon-acc-refactor/)
+![screenshot 1](./assets/screenshots/Screenshot%202022-12-05%20230729.jpg)
+![screenshot 2](./assets/screenshots/Screenshot%202022-12-05%20231013.jpg)
+
 ## License
 
 Licensed under the MIT License
